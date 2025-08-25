@@ -1,11 +1,26 @@
 # 📊 Student Stress Analyzer
 
-Python + Pandas project to explore and visualize student stress factors, with clean EDA and a tiny ML step.
+A simple, practical data project to explore **student stress** using Python. It covers:
+- Clean EDA (summary, missing values, top anxiety students)
+- Clear visuals (distributions + correlations with stress)
+- Optional starter ML (linear regression)
+- Reproducible outputs (saved to `outputs/`)
 
-## Features
-- Summary stats & missing values check
-- Top students by anxiety
-- Distributions: `anxiety_level`, `depression`, `self_esteem`, `sleep_quality`
-- Correlation **bar chart** with `stress_level` (cleaner than heatmap)
-- (Optional) Linear Regression demo
-- Saves results in `outputs/`
+## 🚀 Tech
+Python, Pandas, Matplotlib, Seaborn, (optional) scikit-learn.
+
+## 📑 Dataset
+- **Student Stress Level Dataset** (Kaggle). [https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets].
+
+## ⚙️ Setup
+```bash
+1) create & activate venv
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+
+# 2) install deps
+pip install -r requirements.txt
+
+▶️ Run
+python main.py
