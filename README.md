@@ -13,7 +13,7 @@ Python, Pandas, Matplotlib, Seaborn, (optional) scikit-learn.
 Here are the key graphs from the analysis:
 
 1. **Stress Level Distribution**
-   ![Stress Distribution](## 📊 Visualizations
+   ## 📊 Visualizations
 
 Here are the key graphs from the analysis:
 
@@ -31,8 +31,7 @@ Here are the key graphs from the analysis:
 
 5. **Stress Correlation**
    ![Stress Correlation](outputs/stress_correlation.png)
-   )
-
+   
 ## 📑 Dataset
 - **Student Stress Level Dataset** (Kaggle). [https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets].
 
