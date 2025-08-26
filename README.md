@@ -3,7 +3,6 @@
 A simple, practical data project to explore **student stress** using Python. It covers:
 - Clean EDA (summary, missing values, top anxiety students)
 - Clear visuals (distributions + correlations with stress)
-- Optional starter ML (linear regression)
 - Reproducible outputs (saved to `outputs/`)
 
 ## 🚀 Tech
@@ -21,31 +20,18 @@ Here are the key graphs from the analysis:
 1. **Stress Level Distribution**
    ![Stress Distribution](outputs/anxiety_level_distribution.png)
 
-2. **Stress by Gender**
-   ![Stress by Gender](outputs/graph2_gender.png)
+2. **Self Esteem Distribution**
+   ![Self Esteem Distribution](outputs/self_esteem_distribution.png)
 
-3. **Correlation Heatmap**
-   ![Correlation Heatmap](outputs/graph3_corr.png)
+3. **Depression Distribution**
+   ![Depression Distribution](outputs/depression_distribution.png)
 
-4. **Sleep vs Stress**
-   ![Sleep vs Stress](outputs/graph4_sleep.png)
+4. **Sleep Quality**
+   ![Sleep Quality](outputs/sleep_quality_distribution.png)
 
-5. **Study Hours vs Stress**
-   ![Study Hours vs Stress](outputs/graph5_study.png)
-)
-
-2. **Stress by Gender**
-   ![Stress by Gender](outputs/graph2_gender.png)
-
-3. **Correlation Heatmap**
-   ![Correlation Heatmap](outputs/graph3_corr.png)
-
-4. **Sleep vs Stress**
-   ![Sleep vs Stress](outputs/graph4_sleep.png)
-
-5. **Study Hours vs Stress**
-   ![Study Hours vs Stress](outputs/graph5_study.png)
-
+5. **Stress Correlation**
+   ![Stress Correlation](outputs/stress_correlation.png)
+   )
 
 ## 📑 Dataset
 - **Student Stress Level Dataset** (Kaggle). [https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets].
