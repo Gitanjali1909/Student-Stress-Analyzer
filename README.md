@@ -7,6 +7,7 @@ A simple, practical data project to explore **student stress** using Python. It 
 
 ## 🚀 Tech
 Python, Pandas, Matplotlib, Seaborn, (optional) scikit-learn.
+Kaggle: [https://www.kaggle.com/code/gitanjalisoni/stress-analyzer]
 
 ## 📊 Visualizations
 
