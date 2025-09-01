@@ -33,8 +33,8 @@ Here are the key graphs from the analysis:
 5. **Stress Correlation**
    ![Stress Correlation](outputs/stress_correlation.png)
    
-## 📑 Dataset
-- **Student Stress Level Dataset** (Kaggle). [https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets].
+## Demo
+- Kaggle. [https://www.kaggle.com/code/gitanjalisoni/stress-analyzer].
 
 ## ⚙️ Setup
 ```bash
